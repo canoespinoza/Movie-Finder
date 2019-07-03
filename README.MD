@@ -1,0 +1,1 @@
+Clone repository to computer, start up server at localhost:3000, and type ?t=*anymoviename* into URL to view the info for the movie!
